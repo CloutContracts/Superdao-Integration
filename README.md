@@ -1,4 +1,4 @@
-# SuperDAO Integration
+# Superdao Integration
 
 **Airdrop:** https://airdropalert.com/ccsv2dao-airdrop \
 **Announcement:** https://www.youtube.com/watch?v=mgb69qQwKrY \
