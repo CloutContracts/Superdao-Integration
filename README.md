@@ -1,3 +1,4 @@
+![CCSLOGO](https://raw.githubusercontent.com/CloutContracts/cloutcontracts.github.io/main/assets/images/c-128x128.png)
 # Superdao Integration
 
 **Airdrop:** https://airdropalert.com/ccsv2dao-airdrop \
